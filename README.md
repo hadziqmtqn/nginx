@@ -1,3 +1,3 @@
 # nginx
-Default owner ubuntu "www-data"
-Default owner fedora "nginx"
+* Default owner ubuntu "www-data"
+* Default owner fedora "nginx"
